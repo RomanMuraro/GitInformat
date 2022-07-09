@@ -11,6 +11,7 @@ return cd;}
 int main(){
 	int b;
 	cin>>b;
+	b += 2;
 	b = func(b);
 	cout<<b;
 return 0;}
